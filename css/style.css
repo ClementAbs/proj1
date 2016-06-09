@@ -1,0 +1,24 @@
+/* 
+    AUTHOR: Chris Coyier
+            chriscoyier@gmail.com
+            http://chriscoyier.net
+*/
+#fond{
+
+	z-index:-1;
+		
+	}
+
+
+#sonic{
+	position: relative;
+	width: 220px;
+	height:220px;
+}
+
+#champig{
+	top:1560px;
+	left:950px;
+
+}
+
